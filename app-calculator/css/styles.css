@@ -1,0 +1,89 @@
+.navegation {
+    background-color: #26afe6;
+    border-bottom: 1px solid #DFDDDD;
+}
+
+.title {
+    color: #000;
+    font-size: 30px;
+}
+
+.main-header {
+    background-color: #2ac3ff;
+}
+
+.send {
+    float: left;
+    background-color: #2ac3ff;
+    padding: 8px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    width: 130px;
+}
+
+.send:hover {
+    background-color: #26afe6;
+}
+
+#loading img {
+    display: none;
+    margin: auto;
+}
+
+.result {
+    background-color: #26afe6;
+}
+
+.result-div {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding-top: 15px;
+    margin-top: -17px;
+    margin-bottom: 30px;
+}
+
+.price-finish {
+    font-weight: bold;
+    color: rgb(40, 240, 123);
+}
+
+.tax {
+    color: rgb(195, 4, 4);
+    font-weight: bold;
+}
+
+.error {
+    background-color: rgb(253, 186, 186);
+    border: 1px solid #f69898;
+    color: rgb(253, 54, 54);
+    padding: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.ok {
+    background-color: rgb(39, 197, 144);
+    color: #fff;
+    padding: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid rgb(25, 173, 136);
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    font-family: 'Montserrat';
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
